@@ -16,7 +16,7 @@ This project showcases an interactive dashboard, developed using Power BI, for i
 
 ⁕ Dataset: [Dataset](https://github.com/Akshaya-Sahadevan/E-commerce_Data_Analysis_PowerBI/tree/main/Dataset)
 
-⁕ Schema of the datset tables: [Schema.png](https://github.com/Akshaya-Sahadevan/E-commerce_Data_Analysis_PowerBI/blob/main/Schema.png)
+⁕ Schema of the dataset tables: [Schema.png](https://github.com/Akshaya-Sahadevan/E-commerce_Data_Analysis_PowerBI/blob/main/Schema.png)
 
 ⁕ Static Dashboard: [Static_Dashboard.pdf](https://github.com/Akshaya-Sahadevan/E-commerce_Data_Analysis_PowerBI/blob/main/Static_Dashboard.pdf)
 
